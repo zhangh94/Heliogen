@@ -1,0 +1,10 @@
+Given a small heliostat field with a receiver at (0, 0, 10):
+
+When the sun Azimuth is at 180 deg and sun Elevation is at 45 deg:
+A heliostat at (0, 10, 0) should point (4.32963728535968E-17, -0.707106781186548, 0.707106781186547)
+A heliostat at (0, 20, 0) should point (4.38627525034334E-17, -0.811242185175561, 0.584710284663765)
+
+When the sun Azimuth is at 175 deg and sun Elevation is at 40 deg:
+A heliostat at (0, 10, 0) should point (0.0334316542491239, -0.736198624520553, 0.675939279631102)
+A heliostat at (0, 20, 0) should point (0.0336355769707929, -0.835059218893623, 0.549130903248592)
+Done
