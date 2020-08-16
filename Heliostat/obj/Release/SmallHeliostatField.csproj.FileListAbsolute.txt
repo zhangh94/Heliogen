@@ -1,0 +1,15 @@
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\Heliostat.exe.config
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\Heliostat.exe.manifest
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\Heliostat.application
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\Heliostat.exe
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\Heliostat.pdb
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\MathNet.Numerics.dll
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\MathNet.Spatial.dll
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\MathNet.Numerics.xml
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\bin\Release\MathNet.Spatial.xml
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\SmallHeliostatField.csproj.CoreCompileInputs.cache
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\Heliostat.exe.manifest
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\Heliostat.application
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\SmallHeliostatField.csproj.CopyComplete
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\Heliostat.exe
+C:\Users\zhangh94\OneDrive\Professional\NewJob2020\Heliogen\Heliostat\Heliostat\Heliostat\obj\Release\Heliostat.pdb
